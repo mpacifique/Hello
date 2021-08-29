@@ -11,7 +11,9 @@
 
 int main(int argc, char **argv) {
 
-  printf("Pacifique Mucyo!\n");
+  printf("Name:Pacifique Mucyo!\n");
+
+  printf("Major:Integrated Science.\n")
 
   return 0;
 }
