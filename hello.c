@@ -11,9 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Name:Pacifique Mucyo!\n");
-
-  printf("Major:Integrated Science.\n")
+  printf("My name is Pacifique Mucyo!\n");
+  printf("My major is Integrated Science.\n")
 
   printf("My name is Ethan English\n");
   printf("My major is Computer Engineering\n");
